@@ -1,0 +1,10 @@
+BARPLOT;;
+
+a=c(55,67,89,80,90)
+barplot(a)
+
+
+HORIZONTAL BARPLOT;;
+
+a = c(55,67,89,80,90)
+barplot(a,horiz = TRUE)
